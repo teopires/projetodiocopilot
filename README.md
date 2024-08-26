@@ -19,8 +19,7 @@ Bem-vindo ao meu portfólio de reconhecimento de texto! Este repositório conté
 
 - **Qualidade da Imagem**: Imagens de alta qualidade resultam em um reconhecimento de texto mais preciso.
 - **Ferramentas**: Utilizar o prompt do copilit conforme o resultado que se quer obter um impacto significativo nos resultados.
-
-- 
+ 
 ## Conclusão
 
 Este projeto foi uma excelente oportunidade para explorar técnicas de reconhecimento de texto e entender melhor os desafios e possibilidades dessa área. Estou animado para continuar aprimorando minhas habilidades e expandir este portfólio.
