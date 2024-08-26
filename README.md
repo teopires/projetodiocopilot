@@ -4,8 +4,8 @@ Bem-vindo ao meu portfólio de reconhecimento de texto! Este repositório conté
 
 ## Estrutura do Repositório
 
--  [`inputs/`](https://github.com/teopires/projetodiocopilot/inputs): Pasta contendo as imagens utilizadas para o reconhecimento de texto.
--  [`output/`](https://github.com/teopires/projetodiocopilot/output): Pasta contendo os resultados do reconhecimento de texto nas imagens.
+-  [`inputs/`](https://github.com/teopires/projetodiocopilot/tree/main/inputs): Pasta contendo as imagens utilizadas para o reconhecimento de texto.
+-  [`output/`](https://github.com/teopires/projetodiocopilot/tree/main/output): Pasta contendo os resultados do reconhecimento de texto nas imagens.
 
 
 ## Processo
