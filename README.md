@@ -1,46 +1,20 @@
 # Projeto DIO Copilot - Reconhecimento de Texto
 
-!Logo do Copilot
-
 Bem-vindo ao meu portfólio de reconhecimento de texto! Este repositório contém os resultados do meu trabalho com reconhecimento de texto em imagens, incluindo o processo que segui, insights obtidos e possibilidades futuras.
 
-## Description
+## Estrutura do Repositório
 
-An in-depth paragraph about your project and overview of use.
+- `inputs/`: Pasta contendo as imagens utilizadas para o reconhecimento de texto.
+- `output/`: Pasta contendo os resultados do reconhecimento de texto nas imagens.
 
-## Getting Started
 
-### Dependencies
+## Processo
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+1. **Coleta de Imagens**: As imagens foram geradas no criador de imagens do [Bing](https://www.bing.com/images/create?).
+2. **Pré-processamento**: As imagens foram pré-processadas para melhorar a qualidade do reconhecimento de texto. Isso incluiu ajustes de contraste, remoção de ruído e redimensionamento.
+3. **Reconhecimento de Texto**: Utilizei a ferramenta XYZ para realizar o reconhecimento de texto nas imagens. A ferramenta foi configurada com parâmetros específicos para otimizar a precisão.
+4. **Análise dos Resultados**: Os resultados foram analisados para identificar padrões e possíveis melhorias no processo.
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
 
