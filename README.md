@@ -10,10 +10,9 @@ Bem-vindo ao meu portfólio de reconhecimento de texto! Este repositório conté
 
 ## Processo
 
-1. **Coleta de Imagens**: As imagens foram geradas no criador de imagens do [Bing](https://www.bing.com/images/create?).
-2. **Pré-processamento**: As imagens foram pré-processadas para melhorar a qualidade do reconhecimento de texto. Isso incluiu ajustes de contraste, remoção de ruído e redimensionamento.
-3. **Reconhecimento de Texto**: Utilizei a ferramenta XYZ para realizar o reconhecimento de texto nas imagens. A ferramenta foi configurada com parâmetros específicos para otimizar a precisão.
-4. **Análise dos Resultados**: Os resultados foram analisados para identificar padrões e possíveis melhorias no processo.
+1. **Coleta de Imagens**: As imagens foram geradas por IA no criador de imagens do [Bing](https://www.bing.com/images/create?).
+2. **Reconhecimento de Texto**: Utilizei a ferramenta [COPILOT](https://www.microsoft.com/pt-br/microsoft-copilot) para realizar o reconhecimento de texto nas imagens. A ferramenta foi configurada com parâmetros específicos para otimizar a precisão.
+3. **Análise dos Resultados**: Os resultados foram analisados para identificar padrões e possíveis melhorias no processo.
 
 
 ## Version History
