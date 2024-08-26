@@ -15,23 +15,16 @@ Bem-vindo ao meu portfólio de reconhecimento de texto! Este repositório conté
 3. **Análise dos Resultados**: Os resultados foram analisados para identificar padrões e possíveis melhorias no processo.
 
 
-## Version History
+## Insights
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+- **Qualidade da Imagem**: Imagens de alta qualidade resultam em um reconhecimento de texto mais preciso.
+- **Ferramentas**: Utilizar o prompt do copilit conforme o resultado que se quer obter um impacto significativo nos resultados.
 
-## License
+- 
+## Conclusão
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+Este projeto foi uma excelente oportunidade para explorar técnicas de reconhecimento de texto e entender melhor os desafios e possibilidades dessa área. Estou animado para continuar aprimorando minhas habilidades e expandir este portfólio.
 
-## Acknowledgments
+---
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+Sinta-se à vontade para explorar o repositório e entrar em contato se tiver alguma dúvida ou sugestão!
