@@ -1,6 +1,8 @@
-# projetodiocopilot
+# Projeto DIO Copilot - Reconhecimento de Texto
 
-Simple overview of use/purpose.
+!Logo do Copilot
+
+Bem-vindo ao meu portfólio de reconhecimento de texto! Este repositório contém os resultados do meu trabalho com reconhecimento de texto em imagens, incluindo o processo que segui, insights obtidos e possibilidades futuras.
 
 ## Description
 
